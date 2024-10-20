@@ -1,0 +1,28 @@
+
+.btn-1{
+    background-color: aqua;
+    border: none;
+    font-size: 17px;
+    padding: 6px;
+    box-shadow: 0 0 40px rgba(200, 224, 255, 0.9);
+  }
+  .btn-1:hover{
+    color: white;
+  }
+  .card{
+    background-color: rgb(6, 60, 70);
+    border: none;
+  }
+  .card-body {
+    transition: transform 0.4s ease-in-out;
+    border-radius: 5px;
+    
+  }
+  
+  .card-body:hover {
+    transform: scale(1.1) translateY(-20px);
+  
+  }
+  .mt-7{
+    margin-top: 3rem !important;
+  }

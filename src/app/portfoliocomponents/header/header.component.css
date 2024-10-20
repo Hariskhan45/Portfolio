@@ -1,0 +1,5 @@
+.custom-header{
+    position: fixed;
+    z-index: 2;
+  background-color:rgb(6, 68, 68);
+  }

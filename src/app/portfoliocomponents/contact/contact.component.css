@@ -1,0 +1,29 @@
+
+  
+  .fa-linkedin {
+    color: rgb(4, 236, 159);
+    transition: transform 0.4s ease-in-out;
+  }
+  .fa-envelope{
+    color: rgb(4, 236, 159);
+    transition: transform 0.4s ease-in-out;
+  }
+  .fa-whatsapp{
+    color: rgb(4, 236, 159);
+    transition:transform 0.4s ease-in-out;
+  }
+  .fa-whatsapp:hover{
+    transform: scale(1.5);
+  }
+  .fa-envelope:hover{
+    transform: scale(1.5);
+  }
+  .fa-linkedin:hover{
+    transform: scale(1.5);
+  }
+  input::placeholder{
+    color: rgb(185, 29, 29);
+  }
+  .mt-8{
+    margin-top: 4rem !important;
+  }
